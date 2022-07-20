@@ -1,0 +1,63 @@
+1655627536613	geckodriver	INFO	Listening on 127.0.0.1:51476
+1655627538812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANTONI~1\\AppData\\Local\\Temp\\rust_mozprofile0Fkg3y"
+1655627542700	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:51477
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANTONI~1\\AppData\\Local\\Temp\\rust_mozprofile0Fkg3y\\search.json.mozlz4", (void 0)))
+1655627558147	Marionette	INFO	Listening on port 51551
+Read port: 51551
+1655627558342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51477/devtools/browser/e9224d9a-8da2-4280-a5dd-eec6765b69e8
+1655627792099	Marionette	INFO	Stopped listening on port 51551
+[Parent 5136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5136, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+ the file at C:\\Users\\ANTONI~1\\AppData\\Local\\Temp\\rust_mozprofileZVhPD5\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655627613565	Marionette	INFO	Listening on port 51690
+Read port: 51690
+1655627614305	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:51640/devtools/browser/9bd1c384-0ec5-46c1-ba6a-223eecbdc0f1
+1655627791968	Marionette	INFO	Stopped listening on port 51690
+
+###!!! [Parent][PBackgroundParent] Error: RunMessage(msgname=PIdleScheduler::Msg_RequestIdleTime) Channel error: cannot send/recv
+
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PBackgroundLSDatabase::Msg_RequestAllowToClose) Channel error: cannot send/recv
+
+
+###!!! [Parent][PBackgroundParent] Error: Send(msgname=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 5796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 5796, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+5627738423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655627749193	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+1655627793542	Marionette	INFO	Stopped listening on port 51909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 2172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2172, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+lhost:52006
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ANTONI~1\\AppData\\Local\\Temp\\rust_mozprofilefSYslk\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 767))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1655627789126	Marionette	INFO	Listening on port 52057
+DevTools listening on ws://localhost:52006/devtools/browser/82af85fc-8bcb-449f-bc5e-e87364126b16
+Read port: 52057
+1655627789824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1655627807765	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:235:19
+TimedPromise@chrome://remote/content/marionette/sync.js:220:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2294:11
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1655632150598	Marionette	INFO	Stopped listening on port 52057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+!!! error running onStopped callback: TypeError: callback is not a function
+[Parent 3176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 3176, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../12clk_Pytest_tutotrial/.idea/12clk_Pytest_tutorial.iml" filepath="$PROJECT_DIR$/../12clk_Pytest_tutotrial/.idea/12clk_Pytest_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Daily tasks python/.idea/Daily tasks python.iml" filepath="$PROJECT_DIR$/../Daily tasks python/.idea/Daily tasks python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Python_Tutorial_Basics/.idea/Python_Tutorial_Basics.iml" filepath="$PROJECT_DIR$/../Python_Tutorial_Basics/.idea/Python_Tutorial_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Selenium_tutorial.iml" filepath="$PROJECT_DIR$/.idea/Selenium_tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" filepath="$PROJECT_DIR$/../Web_Driver_Manager_DemoProject/.idea/Web_Driver_Manager_DemoProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pytest_practice/.idea/pytest_practice.iml" filepath="$PROJECT_DIR$/../pytest_practice/.idea/pytest_practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../selenium daily task/.idea/selenium daily task.iml" filepath="$PROJECT_DIR$/../selenium daily task/.idea/selenium daily task.iml" />
+    </modules>
+  </component>
+</project>
